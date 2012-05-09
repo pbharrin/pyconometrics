@@ -20,7 +20,7 @@ Also if you are new to NumPy? but famaliar with Matlab, this page may be helpful
 
 The code currently has tested with Python 2.6, and 2.7 with Numpy 1.6.0.   
 
-The performance of this code is slower than Matlab.
+The performance of this code is slower than Matlab, but it's free.
 
 example:
 ```python
